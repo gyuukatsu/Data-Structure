@@ -1,6 +1,6 @@
 # Data-Structure
 
-2021년 2학기 서울대학교 컴퓨터공학부 Data Structures 강의를 수강하며 진행한 프로젝트입니다.
+2021년 1, 2학기 서울대학교 컴퓨터공학부 Data Structures 강의를 수강하며 진행한 프로젝트입니다.
 
 1. BigInteger: 배열을 이용한 매우 큰 정수의 연산 구현
 2. MovieDatabase: Linked List를 이용한 영화 데이터베이스 구현
